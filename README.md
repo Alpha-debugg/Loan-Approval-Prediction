@@ -1,4 +1,5 @@
-# Loan Approval Prediction using Logistic Regression
+# Loan Approval Prediction using Logistic Regression :-
+https://loan-approval-prediction-rr.streamlit.app/
 
 An end-to-end, explainable machine learning project that predicts whether a
 loan application will be **approved** or **rejected**, and clearly ranks the
