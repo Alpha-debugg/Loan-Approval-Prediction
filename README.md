@@ -72,6 +72,7 @@ Loan-Approval-Prediction/
 │      EDA.ipynb                 # full exploratory data analysis
 │
 ├── src/
+|      __pycache__
 │      preprocessing.py          # loading, cleaning, missing values, outliers
 │      eda.py                    # EDA plotting functions
 │      feature_engineering.py    # derived features + categorical encoding
